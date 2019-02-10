@@ -1,6 +1,6 @@
 # An Ansible summary
 
-Jon Warbrick, July 2014, V3.2 (for Ansible 1.7)
+N Lohidasu Reddy, Feb 2019, (for Ansible 2.7)
 
 # Configuration file
 
